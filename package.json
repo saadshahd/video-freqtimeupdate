@@ -1,0 +1,13 @@
+{
+  "name": "video-freqtimeupdate",
+  "version": "1.0.2",
+  "description": "Frequent Time Update for HTML5 video elements",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadshahd/video-freqtimeupdate.git"
+  },
+  "dependencies": {
+    "custom-event-polyfill": "^0.3.0"
+  }
+}
